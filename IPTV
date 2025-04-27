@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo=""group-title="",river vs boca
-
-#EXTINF:-1 tvg-logo="",boca vs river
 
 #EXTINF:-1 tvg-logo=""group-title="",river vs boca
 https://rm8zcvk3.fubohd.com/sporttv3/mono.m3u8?token=6691e9b788a23b9f0c57a116817b92630dcc6dfe-f2-1745798059-1745780059
@@ -30,21 +27,7 @@ https://cdn5.lqsa.es/hls/0/stream.m3u8
 http://51.222.85.85:81/hls/loco/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="",sala 1
-https://telefecanal3.akamaized.net/hls/live/2040462/canal8cordoba/TOK/master.m3u8?hdnea=st=1727391580~exp=1727567980~acl=/hls/live/2040462/canal8cordoba/TOK/*~hmac=aae72e05a178954a85377e278e4c4305844ff5a3776fd1af28e312ad246b60b5
-#EXTINF:-1 tvg-logo="",sala 3
-https://ag9wzq.la10tv.com:443/espn/tracks-v1a1/mono.m3u8?remote=201.180.92.121&token=e2f4a9d5b77bbd75e18b7de4093306f4a737de99-fff008ca0b5bc196ceff77d2c0890ac2-1726981206-1726945206
-#EXTINF:-1 tvg-logo="",sala 4
-https://c6amu47fxvnbej39ryp5zw.cdnstrength.net:8443/hls/tjw6jpt8n95.m3u8?s=4AZ3_YWXjhpEk8EWa3jokw&e=1726967440
-#EXTINF:-1 tvg-logo="",sala 5
 
-#EXTINF:-1 tvg-logo="",sala 6
-
-#EXTINF:-1 tvg-logo="",sala 7
-
-#EXTINF:-1 tvg-logo="",sala 8
-https://05c7554a3a77.us-east-1.playback.live-video.net/api/video/v1/us-east-1.864899871764.channel.bGUHwMrFEgKi.m3u8
---------------
 
 #EXTINF:-1 tvg-logo=""group-title="Plutotv + canales",Canales
 https://telechancho.github.io/telechancho-iptv/telechancho-infinity.m3u
@@ -68,8 +51,7 @@ https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Pluto%20tv
 #EXTINF:-1 tvg-logo="https://d500.epimg.net/cincodias/imagenes/2020/11/03/smarttv/1604400204_458039_1604400248_noticia_normal_recorte2.jpg" group-title="", TELECLUB
 http://tv.teleclub.xyz/lista/canales.m3u
 
-#EXTINF:-1 tvg-logo="https://pelotalibre.org/wp-content/uploads/2022/12/DirecTV_Sports.png" group-title="",BOCA JUNIORS 
-https://raw.githubusercontent.com/Imag7/Imagt/main/movies.txt
+
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/sex-education.jpg" group-title="Netflix",Sex education
 https://github.com/BrianRVP/lista.m3u/releases/download/PrubeaREMAKEEEEEEEEEEEEEEEEEEEEE/S4E13X.E1AD1UCA1RTI1ON.1.mp4
 
