@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo=""group-title="",river vs boca
-https://a2vlca.fubohd.com/tntsports/mono.m3u8?token=c9313e37eb590a8353dbb0ac1b4686e5c925d4ac-4a-1745797922-1745779922
+
 #EXTINF:-1 tvg-logo="",boca vs river
-https://x4bnd7lq.fubohd.com/disney7/mono.m3u8?token=345816fb3bd497937d0731d8dc9f3e70eb5ada4c-5a-1745798003-1745780003
+
 #EXTINF:-1 tvg-logo=""group-title="",river vs boca
 https://rm8zcvk3.fubohd.com/sporttv3/mono.m3u8?token=6691e9b788a23b9f0c57a116817b92630dcc6dfe-f2-1745798059-1745780059
 
@@ -18,13 +18,11 @@ https://raw.githubusercontent.com/linkarg13/DEPORTE/main/Listas
 https://github.com/linkarg13/SERIES2/releases/download/M3u/senor.m3u
 
 #EXTINF:-1 tvg-logo=""group-title="pruebas",serve1
-http://live.budtvlight.com:25461/get.php?username=bud-4002278&password=95fd274a18&type=m3u
+https://x4bnd7lq.fubohd.com/disney7/mono.m3u8?token=345816fb3bd497937d0731d8dc9f3e70eb5ada4c-5a-1745798003-1745780003
 
 #EXTINF:-1 tvg-logo=""group-title="pruebas",prueb2
-http://ktv.im:8080/get.php?username=0567616054&password=0567616054&type=m3u
+https://a2vlca.fubohd.com/tntsports/mono.m3u8?token=c9313e37eb590a8353dbb0ac1b4686e5c925d4ac-4a-1745797922-1745779922
 
-#EXTINF:-1 tvg-logo="https://cdns-images.dzcdn.net/images/cover/a8c43ec5dcb58cf51220ba02bf58b93b/500x500.jpg",01 -mat
-https://archive.org/download/11-amigos/11-amigos_vbr.m3u
 
 #EXTINF:-1 tvg-logo=""group-title="",aqui no ahi quien viva
 https://cdn5.lqsa.es/hls/0/stream.m3u8
