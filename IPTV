@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo=""group-title="",serve1
+https://x4bnd7lq.fubohd.com/disney7/mono.m3u8?token=345816fb3bd497937d0731d8dc9f3e70eb5ada4c-5a-1745798003-1745780003
+#EXTINF:-1 tvg-logo=""group-title="",prueb2
+https://a2vlca.fubohd.com/tntsports/mono.m3u8?token=c9313e37eb590a8353dbb0ac1b4686e5c925d4ac-4a-1745797922-1745779922
 #EXTINF:-1 tvg-logo=""group-title="",river vs boca
 https://rm8zcvk3.fubohd.com/sporttv3/mono.m3u8?token=6691e9b788a23b9f0c57a116817b92630dcc6dfe-f2-1745798059-1745780059
 
@@ -11,14 +15,6 @@ https://github.com/k-lamar09/cds/releases/download/C4t3g0r14s/P4cK.FUtB0L.m3u
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cYZkcyJ/360-F-58743874-4-FYn-XPIQRc-Fo8i-GTfq-Ja8o-Nm-Gqoa9-QE4.jpg"group-title="",listas IptV
 https://raw.githubusercontent.com/linkarg13/DEPORTE/main/Listas
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MDs30bS/IMG-20240703-030446.jpg"group-title="",SR.REGIO
-https://github.com/linkarg13/SERIES2/releases/download/M3u/senor.m3u
-
-#EXTINF:-1 tvg-logo=""group-title="",serve1
-https://x4bnd7lq.fubohd.com/disney7/mono.m3u8?token=345816fb3bd497937d0731d8dc9f3e70eb5ada4c-5a-1745798003-1745780003
-
-#EXTINF:-1 tvg-logo=""group-title="",prueb2
-https://a2vlca.fubohd.com/tntsports/mono.m3u8?token=c9313e37eb590a8353dbb0ac1b4686e5c925d4ac-4a-1745797922-1745779922
 
 
 #EXTINF:-1 tvg-logo=""group-title="",aqui no ahi quien viva
